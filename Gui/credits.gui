@@ -1,0 +1,205 @@
+>TEMPLATE "!t_headline_label_long.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Title_Credits&"
+POSITION	60.0	40.0	0.9
+>END
+
+
+>TEMPLATE "!t_button_main.gui" 0.0 0.0
+ID		BACK
+CONTENT	"&Back&"
+POSITION	100.0	900.0 	0.7
+FADEPOS		-300.0  900.0
+DELAY 0.0
+>END
+
+>LABEL
+ID			BACKGROUND
+POSITION	90.0	92.0	0.5
+DIMENSIONS	465.0	800.0
+BORDER		5.0
+TEXTURE		IDLE	ui_black
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_CEO&"
+POSITION	110.0	105.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Monika Krzywda"
+POSITION	110.0	125.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_PM&"
+POSITION	110.0	165.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Bartlomiej Sutor"
+POSITION	110.0	185.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_C&"
+POSITION	110.0	225.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Bartlomiej Sutor"
+POSITION	110.0	245.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Bogumil Lesiak"
+POSITION	110.0	265.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_G&"
+POSITION	110.0	305.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Artur Bobek"
+POSITION	110.0	325.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Andrzej Bobek"
+POSITION	110.0	345.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Bartlomiej Sutor"
+POSITION	110.0	365.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Piotr Krzepowski"
+POSITION	110.0	385.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_AG&"
+POSITION	330.0	305.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Mateusz Kruszewski"
+POSITION	330.0	325.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Slawomir Krol"
+POSITION	330.0	345.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_DTP&"
+POSITION	110.0	425.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Sylwia Cieplinska"
+POSITION	110.0	445.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_S&"
+POSITION	110.0	485.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Wojciech Panufnik"
+POSITION	110.0	505.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_QA&"
+POSITION	110.0	545.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Piotr Krzywda"
+POSITION	110.0	565.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_MS&"
+POSITION	110.0	605.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Rafal Krzywda"
+POSITION	110.0	625.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Krzysztof Hanusz"
+POSITION	110.0	645.0	0.98
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_SUP&"
+POSITION	110.0	685.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"Grupa Image"
+POSITION	110.0	705.0	0.98
+>END
+
+>LABEL
+FONT		TrebuchetBold_M 18
+DIMENSIONS	500.0	50.0
+LINE_BREAK
+ID			NONE
+CONTENT		"&Credits_Legal&"
+POSITION	110.0	775.0	0.98
+FADEPOS		0.0  0.0
+TEXTURE		IDLE	ui_transparent
+TEXT_ALIGN	LEFT TOP
+TEXT_COLOR	IDLE 1.0 1.0 1.0 1.0
+DELAY		0.0
+DRAWNAME	YES
+>END
+
+>TEMPLATE "!t_credit_headline.gui" 0.0 0.0
+ID			NONE
+CONTENT		"&Credits_DU&"
+POSITION	330.0	385.0	0.98
+>END
+
+>TEMPLATE "!t_credit_line.gui" 0.0 0.0
+ID			NONE
+CONTENT		"FlexBy"
+POSITION	330.0	405.0	0.98
+>END
