@@ -1,8 +1,8 @@
-Question	"W tej sytuacji kieruj¹cy pojazdem jest ostrzegany o:"
+Question	"In this situation, the vehicle driver is warned about:"
 Picture		"qpic_00.jpg"
-A			"zamkniêciu drogi dla ruchu z przeciwnego kierunku"
-B			"zwê¿eniu jezdni po prawej stronie"
-C			"zwê¿eniu jezdni mog¹cym powodowaæ utrudnienie ruchu"
+A			"closing the road to traffic from the opposite direction"
+B			"the narrowing of the road on the right"
+C			"the narrowing of the road which may cause traffic obstruction"
 Correct		B
 Correct		C
 PointValue	5

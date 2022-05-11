@@ -1,7 +1,7 @@
-Question	"Przy podejrzeniu z³amania koñczyny nale¿y unieruchomiæ:"
+Question	"If fracture is suspected, the limbs should be immobilized:"
 Picture		"qpic_default.jpg"
-A			"wy³¹cznie najbli¿szy z³amaniu staw"
-B			"jedynie samo miejsce z³amania"
-C			"miejsce z³amania i najbli¿sze stawy"
+A			"only the closest joint fracture"
+B			"only the fracture site itself"
+C			"the fracture site and the nearest joints"
 Correct		C
 PointValue	5
