@@ -81,16 +81,16 @@ Credits_ST		"Thanks"
 Credits_Legal   "Symulator Jazdy 2, Freemind 2010. This program is protected by international copyright and trade laws. All rights reserved. All names, titles and logos are reserved by their owners."
 Credits_DU		"Translation"
 
-OrToggleEngine	"(lub uruchom silnik)"
-OrToggleHandbrake	"(lub zaciagnij reczny)"
+OrToggleEngine	"(or start the engine)"
+OrToggleHandbrake	"(or apply the parking brake)"
 
 Ad_MobileTests "Check out my other stuff:"
 Ad_MobileTestsURL "github.com/FlexBy420"
 
 // Mission titles
-MT_City00		"Goraczka Srodmiescia"
-MT_City01		"Osiedle Millenia"
-MT_City02		"Wypad za miasto"
+MT_City00		"Downtown Fever"
+MT_City01		"Millenia Estate"
+MT_City02		"Out of Town"
 MT_City03		"Deszczowe popoludnie"
 MT_City04		"Srodmiescie raz jeszcze"
 MT_City05		"Slonce i deszcz w gorach"
